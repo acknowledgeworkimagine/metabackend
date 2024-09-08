@@ -1,0 +1,19 @@
+h1 {
+    color: purple;
+}
+
+#header1 {
+    color: green;
+}
+
+p { 
+  color: blue; 
+}
+
+a { 
+    color: green; 
+  }
+
+p.navigation { 
+    margin: 2px;
+  }
